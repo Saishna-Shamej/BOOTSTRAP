@@ -3,6 +3,7 @@ Bootstrap is a free and open-source CSS framework directed at responsive, mobile
 
 
 Advantages of Bootstrap:
+
 Easy to use: Anybody with just basic knowledge of HTML and CSS can start using Bootstrap
 Responsive features: Bootstrap's responsive CSS adjusts to phones, tablets, and desktops
 Mobile-first approach: In Bootstrap, mobile-first styles are part of the core framework
